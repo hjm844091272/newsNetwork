@@ -23,9 +23,9 @@ React移动端项目
 
 三、页面展示
 -------
-<h1>列表页</h1>
-![列表页](https://github.com/hjm844091272/newsNetwork/blob/master/img/projectPicture/list.jpg)<br>
-<h1>详情页</h1>
-![详情页](https://github.com/hjm844091272/newsNetwork/blob/master/img/projectPicture/detali.jpg)<br>
-<h1>评论页</h1>
+列表页<br>
+![列表页](https://github.com/hjm844091272/newsNetwork/blob/master/img/projectPicture/list.jpg)
+详情页<br>
+![详情页](https://github.com/hjm844091272/newsNetwork/blob/master/img/projectPicture/detali.jpg)
+评论页<br>
 ![评论页](https://github.com/hjm844091272/newsNetwork/blob/master/img/projectPicture/rating.png)
